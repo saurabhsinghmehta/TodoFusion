@@ -1,0 +1,11 @@
+.todoFusion__btn button {
+  padding: 0.5rem 1rem;
+  color: white;
+  background-color: #3b71ca;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 8px;
+  cursor: pointer;
+  line-height: 20px;
+  border: none;
+}
